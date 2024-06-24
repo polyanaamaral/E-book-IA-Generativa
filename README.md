@@ -1,5 +1,7 @@
 # Além do Condado: Aventuras Épicas na Terra da IA Generativa
 
+e-book voltado para adolescentes sobre Inteligência Artificial Generativa, criado com uso de Inteligência Artifical (IA).
+
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
 
