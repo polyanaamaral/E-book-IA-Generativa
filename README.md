@@ -1,6 +1,6 @@
 # Além do Condado: Aventuras Épicas na Terra da IA Generativa
 
-# Projeto EBOOK Gerado por I.A.s
+## Projeto EBOOK Gerado por I.A.s
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
