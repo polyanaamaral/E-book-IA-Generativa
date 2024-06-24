@@ -1,2 +1,2 @@
-# E-book-IA-Generativa
-E-book criado com inteligência artificial
+# Além do Condado: Aventuras Épicas na Terra da IA Generativa
+Este e-book foi desenvolvido com a assistência de avançadas tecnologias de inteligência artificial. A colaboração com ChatGPT, criado pela OpenAI, permitiu explorar novas fronteiras da criatividade e inovação no texto. Além disso, a inteligência artificial do Bing foi fundamental na criação das imagens que acompanham esta obra, enriquecendo a experiência visual dos leitores. A junção dessas tecnologias proporcionou uma experiência única e imersiva.
