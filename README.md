@@ -1,7 +1,5 @@
 # Além do Condado: Aventuras Épicas na Terra da IA Generativa
 
-## Projeto EBOOK Gerado por I.A.s
-
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
 
@@ -42,8 +40,13 @@ Bing：
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Bing
 
+
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
+
+## Projeto de EBOOK Gerado por I.A.s durante o curso da DIO "Criando um Ebook com ChatGPT & MidJourney"
+
+<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook"> Repositório do Curso aqui </a>
 
