@@ -44,7 +44,6 @@ Bing：
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
 
 ## Projeto de EBOOK Gerado por I.A.s durante o curso da DIO "Criando um Ebook com ChatGPT & MidJourney"
 
